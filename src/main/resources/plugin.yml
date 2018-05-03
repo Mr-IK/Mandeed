@@ -1,0 +1,10 @@
+name: Mandeed
+version: ${project.version}
+main: red.man10.mandeed.Mandeed
+authors: [Mr_IK]
+description: Man10JobsearchPlugin
+commands:
+  mdeed:
+    description: Man10JobsearchPlugin_maincommand
+    usage: /<command>
+    default: op
